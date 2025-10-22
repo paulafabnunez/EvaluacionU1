@@ -15,5 +15,6 @@ for i in range(9):
         digito_verificador = 10 - residuo
 print(digito_verificador)
 
+print("Lo he logrado")
    
 
